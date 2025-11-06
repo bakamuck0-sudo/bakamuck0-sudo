@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Dmytro 👋
 
-<!--
-**bakamuck0-sudo/bakamuck0-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Backend Developer with a passion for building complex, asynchronous systems. I thrive on debugging "impossible" problems and building my development environment (Arch + Hyprland + Neovim) from the ground up.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My "Proof-of-Work" (Pinned Projects)
+
+1.  **[Analyzer (Asynchronous SEO Analyzer)](https://github.com/bakamuck0-sudo/analyzer)**
+    * **What it is:** A web app that analyzes a URL (for `<h1>`, `meta_description`) without blocking the UI.
+    * **What I learned:** This project was a deep dive into **Laravel Queues & Jobs**. I debugged the entire "pipeline" — from `FAIL` states and `NULL` returns to fixing SSL issues, User-Agent blocks, and the `$fillable` Mass Assignment protection.
+
+2.  **[Task Manager](https://github.com/bakamuck0-sudo/job_app)**
+    * **What it is:** A full CRUD application for managing projects and tasks.
+    * **What I learned:** Implemented authorization using **Laravel Policies** (`$this->authorize()`) to ensure users can only edit or delete their *own* projects, fixing a critical security vulnerability.
+
+---
+
+### 🛠️ My Tech Stack
+
+* **Languages:** PHP, SQL, JavaScript, Bash
+* **Framework:** **Laravel** (Queues, Eloquent, Policies, Service Container)
+* **Parsing:** Symfony DOM Crawler
+* **Databases:** MySQL / PostgreSQL
+* **Tools:** Git, Composer, `artisan`
+* **Environment:** Arch Linux, Hyprland, Neovim
