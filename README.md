@@ -6,7 +6,7 @@ I'm a self-taught Backend Developer with a passion for building complex, asynchr
 
 ### 🚀 My "Proof-of-Work" (Pinned Projects)
 
-1.  **[Analyzer (Asynchronous SEO Analyzer)](https://github.com/bakamuck0-sudo/analyzer)**
+1.  **[Analyzer (Asynchronous SEO Analyzer)](https://github.com/bakamuck0-sudo/laravel_analyzer)**
     * **What it is:** A web app that analyzes a URL (for `<h1>`, `meta_description`) without blocking the UI.
     * **What I learned:** This project was a deep dive into **Laravel Queues & Jobs**. I debugged the entire "pipeline" — from `FAIL` states and `NULL` returns to fixing SSL issues, User-Agent blocks, and the `$fillable` Mass Assignment protection.
 
