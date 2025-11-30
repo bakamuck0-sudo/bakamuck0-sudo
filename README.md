@@ -1,26 +1,31 @@
-### Hi there, I'm Dmytro 👋
+# Hi, I'm [bakamuck] 👋
 
-I'm a self-taught Backend Developer with a passion for building complex, asynchronous systems. I thrive on debugging "impossible" problems and building my development environment (Arch + Hyprland + Neovim) from the ground up.
+**Linux Administrator & Network Operations Enthusiast**
 
----
-
-### 🚀 My "Proof-of-Work" (Pinned Projects)
-
-1.  **[Analyzer (Asynchronous SEO Analyzer)](https://github.com/bakamuck0-sudo/laravel_analyzer)**
-    * **What it is:** A web app that analyzes a URL (for `<h1>`, `meta_description`) without blocking the UI.
-    * **What I learned:** This project was a deep dive into **Laravel Queues & Jobs**. I debugged the entire "pipeline" — from `FAIL` states and `NULL` returns to fixing SSL issues, User-Agent blocks, and the `$fillable` Mass Assignment protection.
-
-2.  **[Task Manager](https://github.com/bakamuck0-sudo/job_app)**
-    * **What it is:** A full CRUD application for managing projects and tasks.
-    * **What I learned:** Implemented authorization using **Laravel Policies** (`$this->authorize()`) to ensure users can only edit or delete their *own* projects, fixing a critical security vulnerability.
+I focus on optimizing Command Line Interface (CLI) workflows, system diagnostics, and leveraging scripting for automation in IT infrastructure. This profile serves to demonstrate practical skills developed within my private Home Lab environment.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠 Core Technical Competencies
 
-* **Languages:** PHP, SQL, JavaScript, Bash
-* **Framework:** **Laravel** (Queues, Eloquent, Policies, Service Container)
-* **Parsing:** Symfony DOM Crawler
-* **Databases:** MySQL / PostgreSQL
-* **Tools:** Git, Composer, `artisan`
-* **Environment:** Arch Linux, Hyprland, Neovim
+-   **Linux Systems:** Advanced proficiency in CLI administration (Arch, Fedora, Bash scripting).
+-   **Networking:** Solid foundation in TCP/IP, DNS, VPN, and Firewall configuration and troubleshooting.
+-   **Automation & Scripting:** Practical application of **Bash/Shell Scripting** for system maintenance and monitoring checks.
+-   **Web Backend:** Basic understanding of the PHP/Laravel framework and asynchronous processes.
+-   **DevOps Tools:** Experience with Docker, Git version control, and understanding of monitoring principles.
+
+---
+
+### 💻 Technical Projects and Practical Experience
+
+* **Linux Infrastructure Administration:** Self-built and managed Home Lab (Arch/Fedora server) utilized for system diagnostics, resource monitoring, and maintenance.
+* **Automation & CLI Tooling:** Development of custom Bash scripts to automate system health checks, log collection, and infrastructure maintenance routines.
+* **Web Backend Development:** Experience with full-stack concepts via building an application based on the PHP/Laravel framework, including deployment using Docker.
+* **Networking Setup:** Practical configuration of crucial network services (VPN, DNS, Firewall) for secure and efficient remote access.
+
+---
+
+### 🤝 Connect with Me
+
+
+[![Email](https://img.shields.io/badge/Email-GET_IN_TOUCH-blue)](mailto:[bakamuck0@gmail.com])
