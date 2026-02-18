@@ -28,4 +28,4 @@ I focus on optimizing Command Line Interface (CLI) workflows, system diagnostics
 ### 🤝 Connect with Me
 
 
-[![Email](https://img.shields.io/badge/Email-GET_IN_TOUCH-blue)](mailto:[bakamuck0@gmail.com])
+[![Email](https://img.shields.io/badge/Email-GET_IN_TOUCH-blue)](mailto:bakamuck0@gmail.com)
